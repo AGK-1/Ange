@@ -1,3 +1,3 @@
 Saving time
 Console.log("adventures")
-Print (sll);
+Print (sell;set;);
